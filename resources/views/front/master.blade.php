@@ -643,7 +643,7 @@
     <footer class="footer-area">
         <div class="container">
             <div class="text text-center">
-                <p>@ ARMAN 2024, Design By <a href="#">MarvelTheme</a></p>
+                <p>@ ARMAN 2024, Design By <a href="{{route('home')}}">Arman</a></p>
             </div>
         </div>
     </footer>

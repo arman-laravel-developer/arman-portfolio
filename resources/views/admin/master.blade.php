@@ -870,6 +870,7 @@
 
 @include('sweetalert::alert')
 
+@include('flash-toastr::message')
 
 
 </body>

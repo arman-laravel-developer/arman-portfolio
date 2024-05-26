@@ -658,6 +658,8 @@
 <script src="{{asset('/')}}front/assets/js/clipboard.min.js"></script>
 <script src="{{asset('/')}}front/assets/js/slick.min.js"></script>
 <script src="{{asset('/')}}front/assets/js/script.js"></script>
-</body>
 
+@include('flash-toastr::message')
+
+</body>
 </html>

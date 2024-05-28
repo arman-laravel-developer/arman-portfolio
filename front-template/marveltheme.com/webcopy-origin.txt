@@ -1,0 +1,588 @@
+Uri: https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,600;12..96,700&display=swap
+File Name: C:\Downloaded Web Sites\marveltheme.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpaZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19Ppb5MnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYBMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpYZMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMnuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZJMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v2/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\s\bricolagegrotesque\v2\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpZpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/about.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\about.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/article.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\article.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/css/style.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\css\style.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/css/all.min.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\css\all.min.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/fontawsome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\fontawsome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/about-us/circle-text-light.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\about-us\circle-text-light.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/about-us/circle-text.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\about-us\circle-text.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/bg/banner-shape-1.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\bg\banner-shape-1.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/bg/object-3d-1.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\bg\object-3d-1.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/bg/object-3d-2.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\bg\object-3d-2.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-1.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-2.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-3.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-4.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-5.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/blog/blog-img-6.jpg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\blog\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/favicon.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/adobe.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\adobe.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/app.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\app.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/awwwards.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\awwwards.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/behance.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\behance.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/branding.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\branding.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/camera.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\camera.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/dribbble.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\dribbble.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/figma.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/framer.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\framer.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/google.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\google.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/meta.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\meta.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/mico.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\mico.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/minus.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/notion.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\notion.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/plus.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/prd-design.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\prd-design.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/ui-ux.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\ui-ux.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/view.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\view.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/web-development.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\web-development.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/webflow.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/youtube.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/icons/zeplin.svg
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\icons\zeplin.svg
+Content Type: image/svg+xml
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/images/profile.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\images\profile.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-1.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-1.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-2.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-2.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-3.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-3.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-details-1.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-details-1.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-details-2.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-details-2.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/img/projects/project-details-3.png
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\img\projects\project-details-3.png
+Content Type: image/png
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/clipboard.min.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/script.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/blog.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\blog.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/contact.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\contact.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/index.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\index.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/portfolio-details.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\portfolio-details.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/portfolio.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\portfolio.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/services.html
+File Name: C:\Downloaded Web Sites\marveltheme.com\tf\html\bentofolio-html\services.html
+Content Type: text/html
+

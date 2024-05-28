@@ -78,6 +78,7 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
         return redirect()->back();
 //    dd('cleared');
     });
+    
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
         Route::middleware(['roles'])->group(function () {
             Route::group(['prefix' => 'role', 'as' => 'role.'], function(){

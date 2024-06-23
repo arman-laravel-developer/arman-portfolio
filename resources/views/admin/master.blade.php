@@ -288,6 +288,29 @@
                     </div>
                 </li>
                 <li class="side-nav-item">
+                    <a data-bs-toggle="collapse" href="#Setting" aria-expanded="false" aria-controls="Setting"
+                       class="side-nav-link">
+                        <i class="uil-cog"></i>
+                        <span> Settings Module </span>
+                        <span class="menu-arrow"></span>
+                    </a>
+                    <div class="collapse" id="Setting">
+                        <ul class="side-nav-second-level">
+                            <li>
+                                <a href="#" >
+                                    Generel Setting
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{route('setting.smtp')}}">Smtp Setting</a>
+                            </li>
+                            <li>
+                                <a href="{{route('database.backup')}}">Database Backup</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="side-nav-item">
                     <a data-bs-toggle="collapse" href="#sidebarPrivacy" aria-expanded="false" aria-controls="sidebarEmail"
                        class="side-nav-link">
                         <i class="uil-lock"></i>

@@ -8,6 +8,7 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\SliderController;
 use App\Http\Controllers\PrivacyController;
+use App\Http\Controllers\SettingController;
 
 use App\Models\RoleRoute;
 
@@ -78,8 +79,13 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
         return redirect()->back();
 //    dd('cleared');
     });
-    
+
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
+
+        Route::get('/backup', [SettingController::class, 'backup'])->name('database.backup');
+        Route::get('/smtp', [SettingController::class, 'smtp'])->name('setting.smtp');
+        Route::post('/smtp-update', [SettingController::class, 'smtpUpdate'])->name('setting.smtp-update');
+        Route::post('/test-mail', [SettingController::class, 'testMail'])->name('test.mail');
         Route::middleware(['roles'])->group(function () {
             Route::group(['prefix' => 'role', 'as' => 'role.'], function(){
                 Route::get('/add', [RoleController::class, 'index'])->name('add');

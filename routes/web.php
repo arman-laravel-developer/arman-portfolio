@@ -34,6 +34,10 @@ function getRoleName($routeName)
 
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/about-us', [HomeController::class, 'about'])->name('about.us');
+Route::get('/contact-us', [HomeController::class, 'contact'])->name('contact.us');
+Route::get('/works', [HomeController::class, 'works'])->name('works');
+Route::get('/blogs', [HomeController::class, 'blog'])->name('blog');
 
 
 Route::get('/error', function () {

@@ -52,7 +52,7 @@
                         </div>
                         <ul class="navbar-info mx-auto">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="{{route('home')}}">
+                                <a class="nav-link @if(Route::currentRouteName() == 'home') active @endif" aria-current="page" href="{{route('home')}}">
                                     <svg class="nav-icon" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M13.475 4.92481L9.03083 1.46814C8.64082 1.16473 8.1608 1 7.66667 1C7.17254 1 6.69251 1.16473 6.3025 1.46814L1.8575 4.92481C1.59037 5.13254 1.37424 5.39858 1.22563 5.7026C1.07701 6.00662 0.99984 6.34058 1 6.67897V12.679C1 13.121 1.17559 13.5449 1.48816 13.8575C1.80072 14.17 2.22464 14.3456 2.66667 14.3456H12.6667C13.1087 14.3456 13.5326 14.17 13.8452 13.8575C14.1577 13.5449 14.3333 13.121 14.3333 12.679V6.67897C14.3333 5.99314 14.0167 5.34564 13.475 4.92481Z"
@@ -64,7 +64,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="about.html">
+                                <a class="nav-link @if(Route::currentRouteName() == 'about.us') active @endif" href="{{route('about.us')}}">
                                     <svg class="nav-icon" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M9 9.8335C9.66304 9.8335 10.2989 9.5701 10.7678 9.10126C11.2366 8.63242 11.5 7.99654 11.5 7.3335C11.5 6.67045 11.2366 6.03457 10.7678 5.56573C10.2989 5.09689 9.66304 4.8335 9 4.8335C8.33696 4.8335 7.70107 5.09689 7.23223 5.56573C6.76339 6.03457 6.5 6.67045 6.5 7.3335C6.5 7.99654 6.76339 8.63242 7.23223 9.10126C7.70107 9.5701 8.33696 9.8335 9 9.8335Z"
@@ -78,21 +78,21 @@
                                     About
                                 </a>
                             </li>
+{{--                            <li class="nav-item">--}}
+{{--                                <a class="nav-link" href="services.html">--}}
+{{--                                    <svg class="nav-icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">--}}
+{{--                                        <path d="M7.99967 1.3335L1.33301 4.66683L7.99967 8.00016L14.6663 4.66683L7.99967 1.3335Z"--}}
+{{--                                              stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />--}}
+{{--                                        <path d="M1.33301 8L7.99967 11.3333L14.6663 8" stroke-width="1.4" stroke-linecap="round"--}}
+{{--                                              stroke-linejoin="round" />--}}
+{{--                                        <path d="M1.33301 11.3335L7.99967 14.6668L14.6663 11.3335" stroke-width="1.4" stroke-linecap="round"--}}
+{{--                                              stroke-linejoin="round" />--}}
+{{--                                    </svg>--}}
+{{--                                    Services--}}
+{{--                                </a>--}}
+{{--                            </li>--}}
                             <li class="nav-item">
-                                <a class="nav-link" href="services.html">
-                                    <svg class="nav-icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M7.99967 1.3335L1.33301 4.66683L7.99967 8.00016L14.6663 4.66683L7.99967 1.3335Z"
-                                              stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path d="M1.33301 8L7.99967 11.3333L14.6663 8" stroke-width="1.4" stroke-linecap="round"
-                                              stroke-linejoin="round" />
-                                        <path d="M1.33301 11.3335L7.99967 14.6668L14.6663 11.3335" stroke-width="1.4" stroke-linecap="round"
-                                              stroke-linejoin="round" />
-                                    </svg>
-                                    Services
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="portfolio.html">
+                                <a class="nav-link @if(Route::currentRouteName() == 'works') active @endif" href="{{route('works')}}">
                                     <svg class="nav-icon" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M2.00326 3.99733L7.95159 1.40649C8.04974 1.36442 8.15533 1.34243 8.26212 1.34181C8.3689 1.34119 8.47473 1.36196 8.57337 1.40289C8.67201 1.44382 8.76145 1.50408 8.83642 1.58013C8.9114 1.65617 8.97039 1.74646 9.00992 1.84566L13.1133 11.764C13.1985 11.9651 13.2014 12.1917 13.1213 12.3949C13.0412 12.5982 12.8845 12.7618 12.6849 12.8507L6.73742 15.4415C6.63922 15.4837 6.53356 15.5058 6.42668 15.5065C6.3198 15.5072 6.21387 15.4864 6.11514 15.4455C6.0164 15.4046 5.92688 15.3442 5.85184 15.2681C5.7768 15.192 5.71778 15.1016 5.67826 15.0023L1.57492 5.08316C1.48963 4.88204 1.48673 4.65546 1.56684 4.45222C1.64696 4.24898 1.80367 4.08616 2.00326 3.99733Z"
@@ -108,7 +108,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="blog.html">
+                                <a class="nav-link @if(Route::currentRouteName() == 'blog') active @endif" href="{{route('blog')}}">
                                     <svg class="nav-icon" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path
                                             d="M12.1663 6.16676L13.4163 4.91676C13.6352 4.69789 13.8088 4.43805 13.9273 4.15208C14.0457 3.86612 14.1067 3.55962 14.1067 3.25009C14.1067 2.94056 14.0457 2.63406 13.9273 2.3481C13.8088 2.06213 13.6352 1.80229 13.4163 1.58342C13.1975 1.36455 12.9376 1.19094 12.6517 1.07248C12.3657 0.954033 12.0592 0.893066 11.7497 0.893066C11.4401 0.893066 11.1336 0.954033 10.8477 1.07248C10.5617 1.19094 10.3019 1.36455 10.083 1.58342L1.33301 10.3334V13.6668H4.66634L6.33301 12.0001"
@@ -121,7 +121,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">
+                                <a class="nav-link @if(Route::currentRouteName() == 'contact.us') active @endif" href="{{route('contact.us')}}">
                                     <svg class="nav-icon" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M5.66699 5.5H12.3337" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M5.66699 8.8335H10.667" stroke-width="1.4" stroke-linecap="round"
@@ -177,7 +177,7 @@
                     <small class="theme-text d-block d-xl-none">Change appearance</small>
                   </span>
                             </button>
-                            <a href="contact.html" class="lets-talk-btn">
+                            <a href="{{route('contact.us')}}" class="lets-talk-btn">
                                 Let's Talk
                                 <svg class="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"
                                      xmlns="http://www.w3.org/2000/svg">
@@ -203,7 +203,7 @@
 
     <!-- main area part start -->
     <main>
-        <section class="home-area">
+        <section class="@if(Route::currentRouteName() == 'home') home-area @else content-box-area mt-4 @endif">
             <div class="container">
                 <div class="row g-4">
                     <div class="col-xl-4">
@@ -265,20 +265,30 @@
                             <div class="card services-card">
                                 <div class="card-body">
                                     <h3 class="card-title">Services I Offered
-                                        <a class="link-btn" href="services.html"> See All Services
-                                            <svg class="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M4.16699 10H15.8337" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"
-                                                      stroke-linejoin="round" />
-                                                <path d="M10.833 15L15.833 10" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"
-                                                      stroke-linejoin="round" />
-                                                <path d="M10.833 5L15.833 10" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"
-                                                      stroke-linejoin="round" />
-                                            </svg>
+                                        <a class="link-btn" href="#">
+{{--                                            <svg class="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"--}}
+{{--                                                 xmlns="http://www.w3.org/2000/svg">--}}
+{{--                                                <path d="M4.16699 10H15.8337" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"--}}
+{{--                                                      stroke-linejoin="round" />--}}
+{{--                                                <path d="M10.833 15L15.833 10" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"--}}
+{{--                                                      stroke-linejoin="round" />--}}
+{{--                                                <path d="M10.833 5L15.833 10" stroke="#4770FF" stroke-width="1.5" stroke-linecap="round"--}}
+{{--                                                      stroke-linejoin="round" />--}}
+{{--                                            </svg>--}}
 
                                         </a></h3>
                                     <div class="services-main mt-24">
                                         <div class="row g-4">
+                                            <div class="col-md-3 col-sm-6 col-6">
+                                                <div class="services-item text-center">
+                                                    <div class="image">
+                                                        <img src="{{asset('/')}}front/assets/img/icons/web-development.svg" alt="web-development">
+                                                    </div>
+                                                    <div class="text">
+                                                        <h3 class="title">Web Development</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
                                             <div class="col-md-3 col-sm-6 col-6">
                                                 <div class="services-item text-center">
                                                     <div class="image">
@@ -296,16 +306,6 @@
                                                     </div>
                                                     <div class="text">
                                                         <h3 class="title">Mobile App</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-3 col-sm-6 col-6">
-                                                <div class="services-item text-center">
-                                                    <div class="image">
-                                                        <img src="{{asset('/')}}front/assets/img/icons/prd-design.svg" alt="prd-design">
-                                                    </div>
-                                                    <div class="text">
-                                                        <h3 class="title">Product Design</h3>
                                                     </div>
                                                 </div>
                                             </div>
@@ -338,7 +338,7 @@
                                     <h3 class="card-title">Let's👋
                                         <span class="d-block">Work Together</span>
                                     </h3>
-                                    <a class="link-btn" href="contact.html"> Let's Talk
+                                    <a class="link-btn" href="{{route('contact.us')}}"> Let's Talk
                                         <svg class="icon" width="20" height="20" viewBox="0 0 20 20" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                             <path d="M17.5 11.6665V6.6665H12.5" stroke-width="1.5" stroke-linecap="round"

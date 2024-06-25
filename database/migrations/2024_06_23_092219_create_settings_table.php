@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('footer_text')->nullable();
             $table->string('logo')->nullable();
             $table->string('favicon')->nullable();
+            $table->tinyInteger('status')->default(1);
             $table->timestamps();
         });
     }

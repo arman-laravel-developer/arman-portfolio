@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('icon')->nullable();
             $table->string('position')->nullable();
             $table->string('working_year')->nullable();
+            $table->tinyInteger('status')->default(1);
             $table->timestamps();
         });
     }

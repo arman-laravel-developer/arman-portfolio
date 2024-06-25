@@ -328,6 +328,24 @@
                         </ul>
                     </div>
                 </li>
+                <li class="side-nav-item">
+                    <a data-bs-toggle="collapse" href="#sidebarWork" aria-expanded="false" aria-controls="sidebarWork"
+                       class="side-nav-link">
+                        <i class="uil-lock"></i>
+                        <span> Work Experience </span>
+                        <span class="menu-arrow"></span>
+                    </a>
+                    <div class="collapse" id="sidebarWork">
+                        <ul class="side-nav-second-level">
+                            <li>
+                                <a href="{{route('experience.add')}}">Add Work Experience</a>
+                            </li>
+                            <li>
+                                <a href="{{route('experience.manage')}}">Manage Work Experience</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
             </ul>
             <!--- End Sidemenu -->
             <div class="clearfix"></div>

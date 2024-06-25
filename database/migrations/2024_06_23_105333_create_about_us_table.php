@@ -31,6 +31,7 @@ return new class extends Migration
             $table->date('start_work_year')->nullable();
             $table->integer('project_count')->nullable();
             $table->integer('client_count')->nullable();
+            $table->tinyInteger('status')->default(1);
             $table->timestamps();
         });
     }

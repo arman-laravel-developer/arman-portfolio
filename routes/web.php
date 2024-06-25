@@ -9,6 +9,7 @@ use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\SliderController;
 use App\Http\Controllers\PrivacyController;
 use App\Http\Controllers\SettingController;
+use App\Http\Controllers\WorkExperienceController;
 
 use App\Models\RoleRoute;
 
@@ -131,6 +132,14 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
                 Route::get('/edit/{id}', [PrivacyController::class, 'edit'])->name('privacy.edit');
                 Route::post('/update/{id}', [PrivacyController::class, 'update'])->name('privacy.update');
                 Route::post('/delete/{id}', [PrivacyController::class, 'delete'])->name('privacy.delete');
+            });
+            Route::prefix('work-experience')->group(function () {
+                Route::get('/add', [WorkExperienceController::class, 'index'])->name('experience.add');
+                Route::post('/new', [WorkExperienceController::class, 'create'])->name('experience.new');
+                Route::get('/manage', [WorkExperienceController::class, 'manage'])->name('experience.manage');
+                Route::get('/edit/{id}', [WorkExperienceController::class, 'edit'])->name('experience.edit');
+                Route::post('/update/{id}', [WorkExperienceController::class, 'update'])->name('experience.update');
+                Route::post('/delete/{id}', [WorkExperienceController::class, 'delete'])->name('experience.delete');
             });
         });
     });

@@ -36,19 +36,37 @@
                             <form action="{{route('experience.new')}}" method="POST" enctype="multipart/form-data">
                                 @csrf
                                 <div class="row mb-3">
-                                    <label for="inputEmail3" class="col-2 col-form-label">Title</label>
+                                    <label for="inputEmail3" class="col-2 col-form-label">Company name</label>
                                     <div class="col-10">
-                                        <input type="text" class="form-control @error('title') is-invalid @enderror" name="title" id="inputEmail3" placeholder="Slider name"/>
-                                        @error('title')
+                                        <input type="text" class="form-control @error('name') is-invalid @enderror" name="name" id="inputEmail3" placeholder="Company Name"/>
+                                        @error('name')
                                         <div class="alert alert-danger">{{ $message }}</div>
                                         @enderror
                                     </div>
                                 </div>
                                 <div class="row mb-3">
-                                    <label class="col-2 col-form-label">Image</label>
+                                    <label for="inputEmailposition" class="col-2 col-form-label">Position</label>
                                     <div class="col-10">
-                                        <input type="file" name="image" class="form-control @error('image') is-invalid @enderror" id="exampleInputPassword1">
-                                        @error('image')
+                                        <input type="text" class="form-control @error('position') is-invalid @enderror" name="position" id="inputEmailposition" placeholder="Position"/>
+                                        @error('position')
+                                        <div class="alert alert-danger">{{ $message }}</div>
+                                        @enderror
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <label for="inputEmailWorkingYear" class="col-2 col-form-label">Working Year</label>
+                                    <div class="col-10">
+                                        <input type="text" class="form-control @error('working_year') is-invalid @enderror" name="working_year" id="inputEmailworking_year" placeholder="Working Year"/>
+                                        @error('working_year')
+                                        <div class="alert alert-danger">{{ $message }}</div>
+                                        @enderror
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <label class="col-2 col-form-label">Icon</label>
+                                    <div class="col-10">
+                                        <input type="file" name="icon" class="form-control @error('icon') is-invalid @enderror" id="exampleInputPassword1">
+                                        @error('icon')
                                         <div class="alert alert-danger">{{ $message }}</div>
                                         @enderror
                                     </div>

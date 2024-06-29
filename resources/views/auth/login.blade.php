@@ -33,7 +33,8 @@
                     <!-- Logo -->
                     <div class="card-header pt-4 pb-4 text-center bg-primary">
                         <a href="">
-                            <span><img src="{{asset('/')}}admin/assets/images/logo.png" alt="logo"></span>
+{{--                            <span><img src="{{asset('/')}}admin/assets/images/logo.png" alt="logo"></span>--}}
+                            <h3 class="text-center text-light">Arman Portfolio</h3>
                         </a>
                     </div>
 

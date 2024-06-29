@@ -37,8 +37,10 @@
                                 <thead>
                                 <tr>
                                     <th>S.N</th>
-                                    <th>Title</th>
-                                    <th>Image</th>
+                                    <th>Name</th>
+                                    <th>Position</th>
+                                    <th>Working Year</th>
+                                    <th>Icon</th>
                                     <th>Status</th>
                                     <th>Action</th>
                                 </tr>
@@ -47,9 +49,11 @@
                                 @foreach($experiences as $experience)
                                     <tr>
                                         <td>{{$loop->iteration}}</td>
-                                        <td>{{$experience->title}}</td>
+                                        <td>{{$experience->name}}</td>
+                                        <td>{{$experience->position}}</td>
+                                        <td>{{$experience->working_year}}</td>
                                         <td>
-                                            <img src="{{asset($experience->image)}}" alt="" style="height: 80px">
+                                            <img src="{{asset($experience->icon)}}" alt="" style="height: 80px">
                                         </td>
                                         <td>
                                             @if($experience->status == 1)

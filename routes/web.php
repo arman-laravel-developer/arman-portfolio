@@ -10,6 +10,7 @@ use App\Http\Controllers\SliderController;
 use App\Http\Controllers\PrivacyController;
 use App\Http\Controllers\SettingController;
 use App\Http\Controllers\WorkExperienceController;
+use App\Http\Controllers\ExpertiseAreaController;
 
 use App\Models\RoleRoute;
 
@@ -140,6 +141,14 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
                 Route::get('/edit/{id}', [WorkExperienceController::class, 'edit'])->name('experience.edit');
                 Route::post('/update/{id}', [WorkExperienceController::class, 'update'])->name('experience.update');
                 Route::post('/delete/{id}', [WorkExperienceController::class, 'delete'])->name('experience.delete');
+            });
+            Route::prefix('expertise-area')->group(function () {
+                Route::get('/add', [ExpertiseAreaController::class, 'index'])->name('expertise-area.add');
+                Route::post('/new', [ExpertiseAreaController::class, 'create'])->name('expertise-area.new');
+                Route::get('/manage', [ExpertiseAreaController::class, 'manage'])->name('expertise-area.manage');
+                Route::get('/edit/{id}', [ExpertiseAreaController::class, 'edit'])->name('expertise-area.edit');
+                Route::post('/update', [ExpertiseAreaController::class, 'update'])->name('expertise-area.update');
+                Route::post('/delete/{id}', [ExpertiseAreaController::class, 'delete'])->name('expertise-area.delete');
             });
         });
     });

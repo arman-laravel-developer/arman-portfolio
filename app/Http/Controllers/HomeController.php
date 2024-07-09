@@ -11,6 +11,8 @@ class HomeController extends Controller
     public function index()
     {
 
+        $macAddress = exec('getmac');
+        dd($macAddress);
         return view('front.home.home');
     }
 

@@ -38,6 +38,8 @@ class HomeController extends Controller
 
     public function about()
     {
+        $php = phpinfo();
+        dd($php);
         return view('front.pages.about');
     }
 

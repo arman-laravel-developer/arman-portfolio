@@ -33,7 +33,23 @@ function getRoleName($routeName)
 | contains the "web" middleware group. Now create something great!
 |
 */
+use Illuminate\Http\Request;
+use GuzzleHttp\Client;
 
+Route::get('/visitor-info', function (Request $request) {
+    $ipAddress = $request->ip();
+    $port = $_SERVER['SERVER_PORT'];
+
+    $client = new Client();
+    $response = $client->get("https://ipinfo.io/{$ipAddress}/json");
+    $ispDetails = json_decode($response->getBody(), true);
+
+    return response()->json([
+        'ip' => $ipAddress,
+        'port' => $port,
+        'isp' => $ispDetails['org'] ?? 'Unknown'
+    ]);
+});
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about-us', [HomeController::class, 'about'])->name('about.us');

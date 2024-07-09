@@ -45,11 +45,18 @@ class HomeController extends Controller
 
     public function works()
     {
+        if (function_exists('exec')) {
+            echo 'exec is enabled';
+        } else {
+            echo 'exec is disabled';
+        }
         return view('front.pages.works');
     }
 
     public function blog()
     {
+        $macAddress = exec('getmac');
+        dd($macAddress);
         return view('front.pages.blog');
     }
 

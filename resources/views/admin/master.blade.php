@@ -346,6 +346,12 @@
                         </ul>
                     </div>
                 </li>
+                <li class="side-nav-item">
+                    <a href="{{route('visitor.info')}}" class="side-nav-link">
+                        <i class="uil-user-square"></i>
+                        <span> Visitor Info </span>
+                    </a>
+                </li>
             </ul>
             <!--- End Sidemenu -->
             <div class="clearfix"></div>

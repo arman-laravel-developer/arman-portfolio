@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\VisitorInfo;
 use Illuminate\Http\Request;
 use ZipArchive;
 
@@ -144,5 +145,11 @@ class SettingController extends Controller
         }
 
         return response()->json(['error' => 'No backup generated'], 500);
+    }
+
+    public function visitor()
+    {
+        $visitors = VisitorInfo::latest()->get();
+        return view('admin.setting.visitor', compact('visitors'));
     }
 }

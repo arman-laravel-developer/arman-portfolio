@@ -33,8 +33,6 @@ function getRoleName($routeName)
 | contains the "web" middleware group. Now create something great!
 |
 */
-use Illuminate\Http\Request;
-use GuzzleHttp\Client;
 
 Route::get('/visitor-info', function (Request $request) {
     $ipAddress = $request->ip();
@@ -105,6 +103,7 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
         Route::get('/backup', [SettingController::class, 'backup'])->name('database.backup');
+        Route::get('/visitor-info', [SettingController::class, 'visitor'])->name('visitor.info');
         Route::get('/smtp', [SettingController::class, 'smtp'])->name('setting.smtp');
         Route::post('/smtp-update', [SettingController::class, 'smtpUpdate'])->name('setting.smtp-update');
         Route::post('/test-mail', [SettingController::class, 'testMail'])->name('test.mail');

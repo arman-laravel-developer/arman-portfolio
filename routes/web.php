@@ -62,8 +62,6 @@ Route::get('/error', function () {
 
 
 
-
-
 Route::get('/privacy-policy', [PrivacyController::class, 'page_view'])->name('privacy.view');
 Route::get('/terms-and-condition', [PrivacyController::class, 'condition_page_view'])->name('condition.view');
 

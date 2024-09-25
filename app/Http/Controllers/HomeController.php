@@ -43,6 +43,11 @@ class HomeController extends Controller
         return view('front.pages.about');
     }
 
+    public function arman()
+    {
+        return view('front.pages.arman');
+    }
+
     public function works()
     {
 //        if (function_exists('exec')) {

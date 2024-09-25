@@ -50,6 +50,7 @@ Route::get('/visitor-info', function (Request $request) {
 });
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/arman+tamanna', [HomeController::class, 'arman'])->name('arman');
 Route::get('/about-us', [HomeController::class, 'about'])->name('about.us');
 Route::get('/contact-us', [HomeController::class, 'contact'])->name('contact.us');
 Route::get('/works', [HomeController::class, 'works'])->name('works');

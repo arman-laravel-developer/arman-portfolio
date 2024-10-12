@@ -212,11 +212,17 @@
 
                 <li class="side-nav-title side-nav-item">Navigation</li>
                 @php
-                    $user = Auth::user();
-                    $routeName = request()->route()->getName();
-                    $routesData = \App\Models\RoleRoute::where('route_name', $routeName)->get();
-                    $roles = $routesData->pluck('role_name')->toArray();
-                    $userRoles = $user->roles->pluck('name')->toArray();
+                    // Fetch the user type of the authenticated user
+                    $userType = auth()->user()->user_type;
+
+                    // Initialize roleRoutes variable
+                    $roleRoutes = [];
+
+                    // If user_type is not 1, fetch the role IDs and route names
+                    if ($userType !== 1) {
+                        $roleIds = DB::table('user_role')->where('user_id', auth()->user()->id)->pluck('role_id')->toArray();
+                        $roleRoutes = DB::table('role_routes')->whereIn('role_id', $roleIds)->pluck('route_name')->toArray();
+                    }
 
                 @endphp
                 <li class="side-nav-item">

@@ -223,7 +223,6 @@
                         $roleIds = DB::table('user_role')->where('user_id', auth()->user()->id)->pluck('role_id')->toArray();
                         $roleRoutes = DB::table('role_routes')->whereIn('role_id', $roleIds)->pluck('route_name')->toArray();
                     }
-
                 @endphp
                 <li class="side-nav-item">
                     <a href="{{route('dashboard')}}" class="side-nav-link">

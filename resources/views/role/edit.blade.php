@@ -46,34 +46,69 @@
                         <div class="row mb-3 justify-content-end">
                             <label class="col-2 col-form-label">Select Route</label>
                             <div class="col-10">
-                                <table class="table table-bordered text-center table-striped dt-responsive nowrap w-100">
-                                    <thead>
-                                    <th>
-                                        Name
-                                    <td>Add Form</td>
-                                    <td>Create</td>
-                                    <td>Manage</td>
-                                    <td>Edit Form</td>
-                                    <td>Update</td>
-                                    <td>Delete</td>
-                                    </th>
-                                    </thead>
-                                    <tbody>
+                                <div class="row">
                                     @foreach ($routeLists as $prefix => $routeNames)
-                                        <tr>
-                                            <td>{{ $prefix }}</td> <!-- Prefix column -->
-                                            @foreach ($routeNames as $key => $routeName)
-                                                <td>
-                                                    <div class="form-check form-check-inline">
-                                                        <input type="checkbox" value="{{ $routeName }}" style="height: 20px;width: 20px;" name="route_name[]" @foreach($role->roleRoutes as $roleRoute) {{ $routeName == $roleRoute->route_name ? 'checked' : '' }} @endforeach class="form-check-input" id="customCheck{{ $key }}"/>
-                                                    </div>
-                                                </td>
-                                            @endforeach
-                                        </tr>
-
+                                        <div class="col-md-6">
+                                            <div class="card">
+                                                <div class="card-header">
+                                                    <h4 class="text-center">{{ \Illuminate\Support\Str::ucfirst($prefix) }} Module</h4>
+                                                </div>
+                                                <div class="card-body text-center">
+                                                    @foreach ($routeNames as $key => $routeName)
+                                                        @php
+                                                            // Format the route name
+                                                            $formattedRouteName = str_replace('.', ' ', $routeName); // Replace dots with spaces
+                                                            $formattedRouteName = ucwords($formattedRouteName); // Capitalize the first letter of each word
+                                                        @endphp
+                                                        <div class="form-check form-check-inline" style="margin: 2%;">
+                                                            <input type="checkbox" value="{{ $routeName }}"
+                                                                   style="height: 20px;width: 20px;" name="route_name[]"
+                                                                   @foreach($role->roleRoutes as $roleRoute)
+                                                                   {{ $routeName == $roleRoute->route_name ? 'checked' : '' }}
+                                                                   @endforeach class="form-check-input"
+                                                                   id="customCheck{{ $routeName }}"/>
+                                                            <label
+                                                                for="customCheck{{ $routeName }}"
+                                                                class="form-check-label"
+                                                                style="margin-left: 5px; cursor: pointer;"
+                                                            >
+                                                                {{ $formattedRouteName }}
+                                                            </label>
+                                                        </div>
+                                                    @endforeach
+                                                </div>
+                                            </div>
+                                        </div>
                                     @endforeach
-                                    </tbody>
-                                </table>
+                                </div>
+{{--                                <table class="table table-bordered text-center table-striped dt-responsive nowrap w-100">--}}
+{{--                                    <thead>--}}
+{{--                                    <th>--}}
+{{--                                        Name--}}
+{{--                                    <td>Add Form</td>--}}
+{{--                                    <td>Create</td>--}}
+{{--                                    <td>Manage</td>--}}
+{{--                                    <td>Edit Form</td>--}}
+{{--                                    <td>Update</td>--}}
+{{--                                    <td>Delete</td>--}}
+{{--                                    </th>--}}
+{{--                                    </thead>--}}
+{{--                                    <tbody>--}}
+{{--                                    @foreach ($routeLists as $prefix => $routeNames)--}}
+{{--                                        <tr>--}}
+{{--                                            <td>{{ $prefix }}</td> <!-- Prefix column -->--}}
+{{--                                            @foreach ($routeNames as $key => $routeName)--}}
+{{--                                                <td>--}}
+{{--                                                    <div class="form-check form-check-inline">--}}
+{{--                                                        <input type="checkbox" value="{{ $routeName }}" style="height: 20px;width: 20px;" name="route_name[]" @foreach($role->roleRoutes as $roleRoute) {{ $routeName == $roleRoute->route_name ? 'checked' : '' }} @endforeach class="form-check-input" id="customCheck{{ $key }}"/>--}}
+{{--                                                    </div>--}}
+{{--                                                </td>--}}
+{{--                                            @endforeach--}}
+{{--                                        </tr>--}}
+
+{{--                                    @endforeach--}}
+{{--                                    </tbody>--}}
+{{--                                </table>--}}
                             </div>
                         </div>
                         <div class="justify-content-end row">
